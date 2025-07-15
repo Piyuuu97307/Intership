@@ -8,14 +8,14 @@ console.log(arr[2]);
 console.log(arr[3]);
 console.log(arr[4]);
 
-let names = ["Sneha","Tanuja","Priyanka","Hemlata"];
+let names = ["swapnil","raj","sonu","Piyush"];
 
 console.log(names);
 console.log(names[0]);
 console.log(names[1]);
 console.log(names[2]);
 
-let mixed = [1,2,3.23,"Sneha",null,undefined];
+let mixed = [1,2,3.23,"Piyush",null,undefined];
 console.log(mixed);
 
 //changing values
